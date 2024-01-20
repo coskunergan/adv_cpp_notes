@@ -1,0 +1,6 @@
+derlemek için konsoldan "make html" yaz.
+
+kurulum;
+
+https://www.sphinx-doc.org/en/master/usage/installation.html
+https://github.com/CrossNox/m2r2
