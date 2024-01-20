@@ -28,4 +28,12 @@ exclude_patterns = []
 html_theme = 'alabaster'
 html_static_path = ['_static']
 
+html_context = {
+    "display_github": True, # Integrate GitHub
+    "github_user": "coskunergan", # Username
+    "github_repo": "adv_cpp_notes", # Repo name
+    "github_version": "master", # Version
+    "conf_py_path": "docs/source/", # Path in the checkout to the docs root
+}
+
  
